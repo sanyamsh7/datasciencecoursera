@@ -1,10 +1,10 @@
 # Peer-graded Assignment: Getting and Cleaning Data Course Project
 This repository is a work of **Sanyam Sharma** as a submission to the **_Getting and Cleaning Course Project_**. Files contain the analysis code and the tidy data produced after analysis.
 
-##Dataset
+## Dataset
 **Human Activity Recognition Using Smartphones**
 
-##Files
+## Files
 -**Codebook.md** describes the variables, data, and any operations I performed in the process of cleaning the data. 
 
 -**run_analysis.R** reads both the training and test data provided and then followed by the 5 steps required as described in the course project’s definition:
