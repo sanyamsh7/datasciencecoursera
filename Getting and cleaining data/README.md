@@ -1,5 +1,5 @@
 # Peer-graded Assignment: Getting and Cleaning Data Course Project
-This repository is a work of **Sanyam Sharma** as a submission to the **_Getting and Cleaning Course Project_**. Files contain the analysis code and the tidy data produced after analysis.
+This repository is a work of **Sanyam Sharma** as a submission to the **_Getting and Cleaning Data Course Project_**. Files contain the analysis code and the tidy data produced after analysis.
 
 ## Dataset
 [**Human Activity Recognition Using Smartphones**](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
